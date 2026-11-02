@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "2.1.0",
-  "releaseNotes": "《 告。Evolução v2.1.0 — Paridade Visual com o PC 》\n- As 12 skins originais do programa de PC chegam ao celular: Azul Tensura, Dourado Raphael, Crimson Authority, Void Monarch, Celestial Core, Emerald Oracle, Astral Singularity, Divine Circuit, Abyss Protocol, Prismatic Intelligence, Ciano Cósmico e Demon Lord.\n- Avatar 3D em fundo transparente: icosaedro, octaedro e cubo com arestas em profundidade, nós brilhantes, argolas orbitais, feixes radiais, anel pontilhado, losango e núcleo vivo a 60 FPS.\n- Nova aba Skins com galeria visual, descrição, geometria e marcação do tema ativo.\n- A bolinha flutuante também exibe o avatar 3D quando o tema é tridimensional.\n- Correção do botão de microfone sem ícone e do autoupdate lendo o repositório público de releases.",
-  "downloadUrl": "https://raw.githubusercontent.com/WolfSAlphaa/GrandeSabio-Releases/main/GrandeSabio-v2.1.0.apk"
+  "versionCode": 5,
+  "versionName": "3.0.0",
+  "releaseNotes": "《 告。Evolução v3.0.0 — O HUD do PC no celular 》\n- O HUD real do Grande Sábio (Three.js) agora é a tela inicial do app, com paridade visual exata com o PC.\n- Cérebro via 9router (muse-spark-1.3) com ferramentas Android: abrir apps, YouTube, buscas, hora e status.\n- Voz: o Sábio fala as respostas em voz alta (TTS) com a boca do núcleo sincronizada.\n- Botões nativos: menu do HUD, microfone por voz e acesso ao painel clássico (skins, Tuya, wake word).\n- Alternativa local: Ollama no PC da mesma rede; chats, memória e ajustes persistem no aparelho.",
+  "downloadUrl": "https://raw.githubusercontent.com/WolfSAlphaa/GrandeSabio-Releases/main/GrandeSabio-v3.0.0.apk"
 }
