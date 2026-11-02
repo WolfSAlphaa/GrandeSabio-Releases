@@ -1,0 +1,6 @@
+{
+  "versionCode": 3,
+  "versionName": "2.0.1",
+  "releaseNotes": "《 告。Hotfix do Sistema de Atualização 》\n- O botão Atualizar agora consulta o servidor público de releases.\n- Diagnóstico honesto de erros de rede (HTTP e conexão).\n- Download e instalação com barra de progresso e instalador nativo.",
+  "downloadUrl": "https://raw.githubusercontent.com/WolfSAlphaa/GrandeSabio-Releases/main/GrandeSabio-v2.0.1.apk"
+}
