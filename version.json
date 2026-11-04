@@ -3,6 +3,6 @@
   "versionName": "3.1.0",
   "releaseNotes": "《 告。Evolução v3.1.0 — Um programa só, nativo mobile 》\n- Fim do Frankenstein: o painel clássico foi removido; tudo agora vive dentro do HUD, inclusive skins, dispositivos e ajustes.\n- Roda em português: Dispositivos, Skins, Conversa, Ajustes (+ EXIT); toque no núcleo abre a roda.\n- As 12 skins originais entram na cena 3D com personalização do selo; voz 100% em português.\n- AutoUpdater corrigido: download agora instala de verdade no celular.",
   "downloadUrl": "https://raw.githubusercontent.com/WolfSAlphaa/GrandeSabio-Releases/main/GrandeSabio-v3.1.0.apk",
-  "sha256": "8810aafc3a37601dc49e191f6c36eb8f77fbd9f53beec48bacc0b100046ab1dc",
-  "sizeBytes": 12511073
+  "sha256": "0eb8a057bff3b706426831a8dd9ef4a68694922218c37bb0acecf900aa5a54a8",
+  "sizeBytes": 12699817
 }
