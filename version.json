@@ -1,6 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "3.0.0",
-  "releaseNotes": "《 告。Evolução v3.0.0 — O HUD do PC no celular 》\n- O HUD real do Grande Sábio (Three.js) agora é a tela inicial do app, com paridade visual exata com o PC.\n- Cérebro via 9router (muse-spark-1.3) com ferramentas Android: abrir apps, YouTube, buscas, hora e status.\n- Voz: o Sábio fala as respostas em voz alta (TTS) com a boca do núcleo sincronizada.\n- Botões nativos: menu do HUD, microfone por voz e acesso ao painel clássico (skins, Tuya, wake word).\n- Alternativa local: Ollama no PC da mesma rede; chats, memória e ajustes persistem no aparelho.",
-  "downloadUrl": "https://raw.githubusercontent.com/WolfSAlphaa/GrandeSabio-Releases/main/GrandeSabio-v3.0.0.apk"
+  "versionCode": 6,
+  "versionName": "3.1.0",
+  "releaseNotes": "《 告。Evolução v3.1.0 — Um programa só, nativo mobile 》\n- Fim do Frankenstein: o painel clássico foi removido; tudo agora vive dentro do HUD, inclusive skins, dispositivos e ajustes.\n- Roda em português: Dispositivos, Skins, Conversa, Ajustes (+ EXIT); toque no núcleo abre a roda.\n- As 12 skins originais entram na cena 3D com personalização do selo; voz 100% em português.\n- AutoUpdater corrigido: download agora instala de verdade no celular.",
+  "downloadUrl": "https://raw.githubusercontent.com/WolfSAlphaa/GrandeSabio-Releases/main/GrandeSabio-v3.1.0.apk",
+  "sha256": "8810aafc3a37601dc49e191f6c36eb8f77fbd9f53beec48bacc0b100046ab1dc",
+  "sizeBytes": 12511073
 }
