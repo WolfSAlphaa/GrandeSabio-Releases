@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "3.1.0",
-  "releaseNotes": "《 告。Evolução v3.1.0 — Um programa só, nativo mobile 》\n- Fim do Frankenstein: o painel clássico foi removido; tudo agora vive dentro do HUD, inclusive skins, dispositivos e ajustes.\n- Roda em português: Dispositivos, Skins, Conversa, Ajustes (+ EXIT); toque no núcleo abre a roda.\n- As 12 skins originais entram na cena 3D com personalização do selo; voz 100% em português.\n- AutoUpdater corrigido: download agora instala de verdade no celular.",
-  "downloadUrl": "https://raw.githubusercontent.com/WolfSAlphaa/GrandeSabio-Releases/main/GrandeSabio-v3.1.0.apk",
-  "sha256": "0eb8a057bff3b706426831a8dd9ef4a68694922218c37bb0acecf900aa5a54a8",
-  "sizeBytes": 12699817
+  "versionCode": 7,
+  "versionName": "3.2.0",
+  "releaseNotes": "《 告。Evolução v3.2.0 》\n- Atualizador reescrito: confere SHA-256 e o pacote, retoma depois de você liberar 'instalar apps desconhecidos' e aceita repositório privado com token.\n- Dispositivos: adicionar, renomear e remover; cor RGB, brilho e luz branca nas lâmpadas; o cartão mostra o resultado real do aparelho.\n- Conversas no celular de verdade (lista, excluir, reabrir com o contexto certo); modos decorativos do PC removidos.\n- Bolha flutuante sem a caixa retangular, no visual do HUD e com entrada animada.\n- Palavra de ativação offline (Vosk): acabou o 'GAU' repetido do reconhecedor do Google.\n- Cérebro no próprio celular: Gemma 4 E2B, grátis e offline depois de baixar o modelo uma vez (2,6 GB).\n- Abertura limpa: controles de teste do PC não aparecem mais.\n- Requer Android 8.0+ (64 bits).",
+  "downloadUrl": "https://raw.githubusercontent.com/WolfSAlphaa/GrandeSabio-Releases/main/GrandeSabio-v3.2.0.apk",
+  "sha256": "49714e7f2387216526c0e276ca9a8b13b903908f1627c5dbcca1adc29a566a4b",
+  "sizeBytes": 84476833
 }
